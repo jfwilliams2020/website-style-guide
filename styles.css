@@ -1,0 +1,68 @@
+body {
+    margin: 20px 10% 0 10%;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+p {
+    font-size: 2em;
+}
+
+.container {
+    border: 2px solid gray;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.container div {
+    width: 25%;
+    display: inline-block;
+    padding: 25px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cool-blue {
+    color: white;
+    background-color: #2d5dcc;
+}
+
+.pink {
+    color: black;
+    background-color: #d957d9;
+}
+
+.mint-green {
+    color: black;
+    background-color: #4fe0b0;
+}
+
+.beige {
+    color: black;
+    background-color: #efd9ca;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+    height: 50%;
+}
+
+.nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+    height: 50%;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+    height: 50%;
+}
+
+.container h2 {
+    text-decoration: underline;
+}
